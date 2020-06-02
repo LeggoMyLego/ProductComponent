@@ -63,6 +63,7 @@ const Button = styled.button`
   cursor: pointer;
   padding: 0.1875rem 0px 0px;
   margin: 0.3125rem 0px 0.3125rem 1.25rem;
+  background-color: transparent;
 `;
 
 const RatingBar = styled.div`

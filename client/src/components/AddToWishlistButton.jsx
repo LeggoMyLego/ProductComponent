@@ -32,6 +32,7 @@ const WishListButton = styled.button`
   padding: 0px;
   cursor: pointer;
   border-width: 0px;
+  background-color: transparent;
 `;
 
 const WishListText = styled.span`

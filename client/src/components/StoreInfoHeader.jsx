@@ -46,6 +46,7 @@ export const InfoButton = styled.button`
     color: rgb(0, 109, 183);
     border-color: rgb(0, 109, 183);
   };
+  background-color: transparent;
 `;
 
 const InfoButtonContainer = styled.div`

@@ -93,6 +93,7 @@ width: 1.875rem;
 `;
 
 const StyledSearchButton = styled.button`
+  background-color: transparent;
   white-space: nowrap;
   transform: translateX(-1px);
   margin-right: -1px;
