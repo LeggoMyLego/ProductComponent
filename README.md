@@ -35,9 +35,9 @@ From within ./db/index.js, configure credentials :
 
 ```sh
 const connection = mysql.createConnection({
-  host: process.env.HOST,
-  user: process.env.USER,
-  password: process.env.PASSWORD,
+  host: HOST,
+  user: USER,
+  password: SECRET,
   database: 'product_component',
 })
 ```
