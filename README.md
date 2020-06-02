@@ -2,11 +2,6 @@
 
 > A fullstack application built with React, ExpressJS, and MySQL. This app serves as the product overview module for an ecommerce website where a user can add varying quantities to cart, add to wishlist, and check in-store availability.
 
-## Demos
-
-![](Buy-Tab.gif)
-![](Check-Store-Tab.gif)
-
 ## Table of Contents
 
 1. [Requirements](#requirements)
@@ -75,3 +70,8 @@ npm run dev
   - https://github.com/LeggoMyLego/GalleryComponent
   > Proxy Server for Serving All Modules
   - https://github.com/LeggoMyLego/JoeyProxyServer
+  
+
+## Demos
+
+![](Buy-Tab.gif) ![](Check-Store-Tab.gif)
