@@ -39,7 +39,7 @@ const connection = mysql.createConnection({
   user: process.env.USER,
   password: process.env.PASSWORD,
   database: 'product_component',
-});
+})
 ```
 
 ### Seed Database With Mock Data
