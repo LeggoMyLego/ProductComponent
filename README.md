@@ -5,9 +5,10 @@
 ## Table of Contents
 
 1. [Requirements](#requirements)
-1. [Getting Started](#gettingStarted)
-1. [Run Application](#runApplication)
+1. [Getting Started](#getting-started)
+1. [Run Application](#run-application)
 1. [Development](#development)
+1. [Demos](#demos)
 
 ## Requirements
 
